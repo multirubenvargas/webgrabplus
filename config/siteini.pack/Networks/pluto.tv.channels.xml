@@ -2,6 +2,11 @@
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.3/0.07 -- Jan van Straaten" site="pluto.tv">
   <channels>
     <channel update="i" site="pluto.tv" site_id="51c75f7bb6f26ba1cd000017" xmltv_id="Top 40">Top 40</channel>
+    <channel update="i" site="pluto.tv" site_id="5e793a7cfbdf780007f7eb75" xmltv_id="Pluto TV">Pluto TV</channel>
+    <channel update="i" site="pluto.tv" site_id="5dcde437229eff00091b6c30" xmltv_id="Cine Estelar">Cine Estelar</channel>
+    <channel update="i" site="pluto.tv" site_id="5dcb62e63d4d8f0009f36881" xmltv_id="Cine Accion">Cine Accion</channel>
+    <channel update="i" site="pluto.tv" site_id="5e972a21ad709d00074195ba" xmltv_id="Estrellas de Acción">Estrellas de Acción</channel>
+    <channel update="i" site="pluto.tv" site_id="5dcdde78f080d900098550e4" xmltv_id="Cine Comedia">Cine Comedia</channel>
     <channel update="i" site="pluto.tv" site_id="5265a7d94d50af48470013f6" xmltv_id="Top Dance Hits">Top Dance Hits</channel>
     <channel update="i" site="pluto.tv" site_id="52698cf93a53e5cc7400047c" xmltv_id="Top Web Tracks">Top Web Tracks</channel>
     <channel update="i" site="pluto.tv" site_id="52a14f3dc954e9670801c106" xmltv_id="Top Country Hits">Top Country Hits</channel>
